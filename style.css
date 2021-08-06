@@ -1,3 +1,82 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.same_color{
+    color: #E76F51;
+}
+header{
+    background-color: #264653;
+}
+#header_bottom span{
+    font-size: 14px;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+#header_bottom h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+#header_bottom p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+#fetured h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+#fetured p{
+    font-size: 14px;
+    font-weight: 600;
+}
+#fetured hr{
+    width: 58px;
+    height: 2px;
+    margin: 0px auto;
+}
+#fetured img{
+    width: 288px;
+    height: 243px;
+}
+#latest_news h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+#latest_news h3{
+    font-size: 26px;
+    font-weight: 600;
+    color: #18191F;
+}
+#latest_news p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6C6C6C;
+}
+#team h2{
+    font-size: 48px;
+    font-weight: 600;
+    color: #0A0826;
+}
+#team img{
+    width: 149px;
+    height: 149px;
+}
+#team p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6C6C6C;
+}
+#team span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #23A6F0;
+}
+#accordion_area img{
+    width:  425px ;
+    height: 398px;
+}
+#accordion_title{
+    font-size: 48px;
+    font-weight: 600;
+    color: #0A0826;
+}
